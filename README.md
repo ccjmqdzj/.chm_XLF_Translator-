@@ -35,6 +35,7 @@
 <img width="425" alt="屏幕截图 2025-05-01 225426" src="https://github.com/user-attachments/assets/f25bcf79-c2d2-4ba0-bb13-5581c701bc5f" />
 
 5.目录下即可看到输出的文件
+ps:如果出现错误可以在releases中下载“htmlhelp.exe”安装一遍 Sisulizer软件也可见于releases中 点击评估版的就行 30天也够用。
 
 ---
 
