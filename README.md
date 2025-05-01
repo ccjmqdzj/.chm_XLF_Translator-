@@ -44,7 +44,7 @@ pip install pygtrans docts
 
 5.目录下即可看到输出的文件
 
-ps:如果出现错误可以在releases中下载“htmlhelp.exe”安装一遍 Sisulizer软件也可见于releases中 点击评估版的就行 30天也够用。
+ps:如果出现错误可以在releases中下载“htmlhelp.exe”安装一遍 Sisulizer软件也可见于releases中 点击评估版的就行 30天也够用。 默认使用谷歌翻译 国内会被墙 请填写梯子代理后使用即可。
 ---
 
 本工具支持深色/浅色/系统主题、进度条显示、高分屏适配，适合批量文档本地化、技术资料翻译等场景。 
