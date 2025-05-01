@@ -8,6 +8,16 @@
 
 `.chm` 文件（Compiled HTML Help）是微软推出的一种帮助文档格式，广泛用于软件的离线帮助系统。它本质上是将HTML、图片、索引等内容打包压缩成一个文件，支持目录、全文检索、超链接等功能。
 
+
+
+## 依赖安装
+
+本工具基于 Python 3 开发，需安装以下依赖：
+
+```bash
+pip install pygtrans docts
+```
+
 ## 使用流程
 
 ### 1. 用 Sisulizer 导出 XLF 文件
@@ -35,6 +45,7 @@
 <img width="425" alt="屏幕截图 2025-05-01 225426" src="https://github.com/user-attachments/assets/f25bcf79-c2d2-4ba0-bb13-5581c701bc5f" />
 
 5.目录下即可看到输出的文件
+ps:如果出现错误可以在releases中下载“htmlhelp.exe”安装一遍 Sisulizer软件也可见于releases中 点击评估版的就行 30天也够用。
 
 ---
 
